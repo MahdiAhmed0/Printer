@@ -24,7 +24,6 @@ public class Main
 	            } else {
 	                delayInThread(20);
 	                System.out.println(display + currentChar);
-	                continue;
 	            }
 	        }
 	    }
